@@ -29,4 +29,4 @@ int main (){
         cout<<"still i am learning"<<endl;
     }
     return 0;
-}//deep ratan
+}//deep ratan//la la la
